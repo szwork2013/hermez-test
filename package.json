@@ -1,0 +1,17 @@
+{
+  "name": "hermez",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "@hermeznetwork/hermezjs": "^1.0.0-beta.9",
+    "@ledgerhq/hw-transport-u2f": "^5.36.0-deprecated",
+    "web3-utils": "^1.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
